@@ -10,12 +10,12 @@ This repo contains all my code samples for the course.
   - Sliding Window Pattern: [Find Longes Substring](/src/problem-solving-patterns/findLongestSubstring.js), [Max Sub Array Sum](/src/problem-solving-patterns/maxSubArraySum.js), [Min Sub Array Length](/src/problem-solving-patterns/minSubArrayLen.js)
 - Recursion: [Factorial](/src/recursion/factorialRecursively.js), [Flatten](/src/recursion/flattenRecursion.js), [Palindrome](/src/recursion/isPalindromeRecursive.js), [Power](/src/recursion/powerRecursively.js), [Product of Array](/src/recursion/productOfArrayRecursively.js), [Fibonacci Number](/src/recursion/recursiveFib.js), [Fallback Call](/src/recursion/someRecursive.js), [String Reverse](/src/recursion/reversRecursions.js)
 - Searching Algorithms
-  - Linear Search
-  - Binary Search
-  - Naive Search
+  - [Linear Search](/src/search/linearSearch.js)
+  - [Binary Search](/src/search/binarySearch.js)
+  - [Naive Search](/src/search/naiveSearch.js)
 - Sorting Algorithms
-  - [Bubble Sort](/src/search/bubbleSort.js)
-  - [Selection Sort](/src/search/selectionSort)
+  - [Bubble Sort](/src/sorting/bubbleSort.js)
+  - [Selection Sort](/src/sorting/selectionSort)
   - Insertion Sort
   - Merge Sort
   - Quick Sort
