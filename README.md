@@ -15,8 +15,8 @@ This repo contains all my code samples for the course.
   - [Naive Search](/src/search/naiveSearch.js)
 - Sorting Algorithms
   - [Bubble Sort](/src/sorting/bubbleSort.js)
-  - [Selection Sort](/src/sorting/selectionSort)
-  - Insertion Sort
+  - [Selection Sort](/src/sorting/selectionSort.js)
+  - [Insertion Sort](/src/sorting/insertionSort.js)
   - Merge Sort
   - Quick Sort
   - Radix Sort
