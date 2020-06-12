@@ -17,7 +17,7 @@ This repo contains all my code samples for the course.
   - [Bubble Sort](/src/sorting/bubbleSort.js)
   - [Selection Sort](/src/sorting/selectionSort.js)
   - [Insertion Sort](/src/sorting/insertionSort.js)
-  - Merge Sort
+  - [Merge Sort](/src/sorting/mergeSort.js)
   - Quick Sort
   - Radix Sort
 - Data Structures
