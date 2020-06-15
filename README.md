@@ -1,6 +1,6 @@
 # Udemy JavaScript Algorithms and Data Structures Masterclass code
 
-This repo contains all my code samples for the course.
+This repo contains all my code samples for the [course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass).
 
 ## Synapsis and Quick Links
 
