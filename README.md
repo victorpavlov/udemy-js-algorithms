@@ -21,7 +21,7 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
   - [Quick Sort](/src/sorting/quickSort.js)
   - [Radix Sort](/src/sorting/radixSort.js)
 - Data Structures
-  -Singly Linked Lists
+  - [Singly Linked Lists](/src/data-structures/SinglyLinkedList.js)
   - Doubly Linked Lists
   - Stacks + Queues
   - Binary Search Trees
