@@ -22,7 +22,7 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
   - [Radix Sort](/src/sorting/radixSort.js)
 - Data Structures
   - [Singly Linked Lists](/src/data-structures/SinglyLinkedList.js)
-  - Doubly Linked Lists
+  - [Doubly Linked Lists](/src/data-structures/DoubleLinkedList.js)
   - Stacks + Queues
   - Binary Search Trees
     - Tree Traversal
