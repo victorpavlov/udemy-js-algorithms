@@ -10,7 +10,7 @@ class Node {
 }
 
 /**
- * Double Linked List class realization.
+ * Doubly Linked List class realization.
  * Uses helper Node class to create a list item.
  */
 class DoubleLinkedList {
@@ -126,6 +126,21 @@ class DoubleLinkedList {
     removed.next = null;
     this.length--;
     return removed;
+  }
+  reverse() {
+    let node = this.head;
+    this.head = this.tail;
+    this.tail = node;
+    let prev = null,
+      next = null;
+    for (let i = 0; i < this.length; i++) {
+      next = node.next;
+      node.next = prev;
+      node.prev = next;
+      prev = node;
+      node = next;
+    }
+    return this;
   }
 }
 
