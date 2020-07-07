@@ -27,7 +27,7 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
     - [Stack](/src/data-structures/Stack.js)
     - [Queue](/src/data-structures/Queue.js)
   - [Binary Search Trees](/src/data-structures/BinarySearchTree.js)
-  - Tree Traversal
+    - [Tree Traversal](/src/data-structures/BinarySearchTree.js)
   - Binary Heaps
   - Hash Tables
   - Graphs
