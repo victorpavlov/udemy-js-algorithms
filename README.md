@@ -29,6 +29,8 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
   - [Binary Search Trees](/src/data-structures/BinarySearchTree.js)
     - [Tree Traversal](/src/data-structures/BinarySearchTree.js)
   - Binary Heaps
+    - [Max Binary Heap](/src/data-structures/MaxBinaryHeap.js)
+    - [Priority Queue](/src/data-structures/PriorityQueue.js)
   - Hash Tables
   - Graphs
     - Graph Traversal
