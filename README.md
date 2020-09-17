@@ -32,6 +32,8 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
     - [Max Binary Heap](/src/data-structures/MaxBinaryHeap.js)
     - [Priority Queue](/src/data-structures/PriorityQueue.js)
   - Hash Tables
+    - [Hash Function](/src/hash-tables/hash-function.js)
+    - [Hash Table Class](/src/hash-tables/HashTable.js)
   - Graphs
     - Graph Traversal
 - Dijkstra's Algorithm!
