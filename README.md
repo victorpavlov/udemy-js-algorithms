@@ -37,4 +37,8 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
   - [Graphs](/src/graph/Graph.js)
     - [Graph Traversal](/src/graph/Graph.js), see methods: `depthFirstRecursive`, `depthFirstIterative`, `breadthFirstIterative`
 - Dijkstra's Algorithm!
+  - [Weighted Graph](/src/dijkstra/WeightedGraph.js)
+  - [Simple Priority Queue](/src/dijkstra/PriorityQueue.js)
+  - [Improved Priority Queue (Binary Hip Solution)](/src/dijkstra/PriorityQueueBinaryHip.js)
+  - [Solution](/src/dijkstra/Dijkstra.js)
 - Dynamic Programming
