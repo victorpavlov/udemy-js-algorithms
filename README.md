@@ -34,7 +34,7 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
   - Hash Tables
     - [Hash Function](/src/hash-tables/hash-function.js)
     - [Hash Table Class](/src/hash-tables/HashTable.js)
-  - Graphs
-    - Graph Traversal
+  - [Graphs](/src/graph/Graph.js)
+    - [Graph Traversal](/src/graph/Graph.js), see methods: `depthFirstRecursive`, `depthFirstIterative`, `breadthFirstIterative`
 - Dijkstra's Algorithm!
 - Dynamic Programming
