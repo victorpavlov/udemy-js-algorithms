@@ -2,6 +2,8 @@
 
 This repo contains all my code samples for the [course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass).
 
+**Certificate:** https://www.udemy.com/certificate/UC-b3a376af-40b6-4035-a2fd-21eae8b83beb/
+
 ## Synapsis and Quick Links
 
 - Problem Solving Patterns
@@ -42,3 +44,6 @@ This repo contains all my code samples for the [course](https://www.udemy.com/co
   - [Improved Priority Queue (Binary Hip Solution)](/src/dijkstra/PriorityQueueBinaryHip.js)
   - [Solution](/src/dijkstra/Dijkstra.js)
 - Dynamic Programming
+  - Overlapping Subproblems
+    - [Fibonacci Recursion with Memo](/src/dynamic-programming/recursiveFibMemo.js)
+    - [Fibonacci Recursion with Tab](/src/dynamic-programming/iterativeFibTab.js)
